@@ -18,7 +18,7 @@ Stay connected, chat in real-time, and enjoy a simple, cross-platform terminal i
 
 ## Screenshots
 
-![Example Screenshot](screenshot.png)  <!-- Optional: Add your screenshot here -->
+![Example Screenshot](assets/Terminal.png)  
 
 ---
 
@@ -36,16 +36,12 @@ pip install -r requirements.txt
 Usage
 Clone the repository:
 
-bash
-Copy
-Edit
+
 git clone https://github.com/YourUsername/SCORPION-HackChat-CLI.git
 cd SCORPION-HackChat-CLI
 Run the client:
 
 bash
-Copy
-Edit
 python3 HackChatCli.py
 Enter your room name and username, then start chatting!
 
@@ -66,6 +62,3 @@ Development
 Made by Mojtaba Shavandi
 SCORPION TEAM - HackChat Development
 
-yaml
-Copy
-Edit
